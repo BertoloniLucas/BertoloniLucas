@@ -10,4 +10,4 @@
 
   •	🟡JS
 
-  •	🏫 https://campus.ort.edu.ar/secundaria/belgrano/tic
+  •	🏫 TIC - ORT
