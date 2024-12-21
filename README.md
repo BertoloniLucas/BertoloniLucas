@@ -1,1 +1,3 @@
 Student at ORT Argentina
+
+🔜 Currently learning React + React Native + TSX ⚛️🇹🇸 ....
